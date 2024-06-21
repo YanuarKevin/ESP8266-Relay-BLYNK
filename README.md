@@ -1,3 +1,4 @@
 # ESP8266-Relay-BLYNK
 
+Additional Board Manager URLs: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 SAYA SARANKAN MENGGUNAKAN LOKAL SERVER AGAR DAPAT LEBIH LELUASA MENGGUNAKAN FITUR DAN WIDGET DARI BLNK.
